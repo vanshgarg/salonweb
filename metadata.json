@@ -1,0 +1,6 @@
+{
+  "name": "Aura Luxury Salon Template",
+  "description": "A high-end, conversion-focused salon website template designed to attract and impress salon owners with professional aesthetic and clear service hierarchy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
